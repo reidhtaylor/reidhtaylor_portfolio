@@ -55,6 +55,8 @@ a compass – allowing the vehicle to self drive and avoid obstacles.
 ---
 
 # Crossword Puzzle Generator (Recursion Performance Test)
+<img width="392" height="96" alt="image" src="https://github.com/user-attachments/assets/115d9e3a-a452-4c19-a2d7-1e2237caa947" />
+
 ## DESCRIPTION
 Designed and implemented a recursive algorithm program to generate all possible
 word search grids that satisfy both required and forbidden word constraints.
@@ -76,6 +78,8 @@ leaderboard in a class of 400 students.
 ---
 
 # STIBS (Electrical Circuit Sandbox 3D)
+<img width="2364" height="1056" alt="image" src="https://github.com/user-attachments/assets/25e1a54e-7bd3-4343-a4e1-3e595f4b1da0" />
+
 ## [GITHUB LINK](https://github.com/vincent31545/STIB)
 ## DESCRIPTION
 Developed a C#-based 3D simulation tool to help students learn and experiment
@@ -94,6 +98,8 @@ and fun yet educational for learners.
 ---
 
 # Simon Says DAC (Digital-To-Analog Converter Test)
+<img width="1360" height="763" alt="image" src="https://github.com/user-attachments/assets/ba4de9ed-0065-4abe-9080-4a2766d26d35" />
+
 ## DESCRIPTION
 Engineered a digital-to-analog converter (DAC) using an R2R resistor ladder to
 demonstrate voltage divider principles through an interactive Simon Says-style
@@ -109,6 +115,8 @@ showcasing the practical applications of DACs in modern electronics.
 ---
 
 # Sendit (P2P Airdrop)
+<img width="2302" height="1252" alt="image" src="https://github.com/user-attachments/assets/0d622089-591b-4dc2-927c-e732f8a5bd80" />
+
 ## [GITHUB LINK](https://github.com/reidhtaylor/Sendit)
 ## DESCRIPTION
 Developed Sendit, a C/C++ peer-to-peer (P2P) file-sharing application designed
@@ -126,6 +134,8 @@ sharing files across different operating systems.
 ---
 
 # Coda (Apple Music re-engineered/re-designed)
+<img width="3204" height="1901" alt="image" src="https://github.com/user-attachments/assets/4907ddc2-2fc7-443a-835e-a2f7607fa110" />
+
 ## [GITHUB LINK](https://github.com/reidhtaylor/coda)
 ## DESCRIPTION
 Built Coda, a Swift and Objective-C music player that seamlessly integrates Apple
@@ -147,6 +157,8 @@ personal music player.
 ---
 
 # Physics Based real-time foliage Renderer/Simulator
+<img width="466" height="240" alt="image" src="https://github.com/user-attachments/assets/db279331-0d96-4525-8a59-f246d176cc9d" />
+
 ## GITHUB: https://github.com/reidhtaylor/URP-Grass-Renderer
 ## DESCRIPTION
 Developed a real-time grass rendering system leveraging Compute Shaders and
@@ -169,6 +181,8 @@ emphasizes customization and efficiency.
 ---
 
 # Filex (File Converter)
+<img width="414" height="215" alt="image" src="https://github.com/user-attachments/assets/8e7fdcec-1de9-45e7-88e7-d2f3c6717950" />
+
 ## DESCRIPTION
 Developed Filex, a macOS application built with Swift and Objective-C, designed
 for effortless file conversion through an intuitive drag-and-drop interface.
@@ -188,6 +202,8 @@ operation even with high-capacity files.
 ---
 
 # Nexus Backend Server (C#)
+<img width="3274" height="1922" alt="image" src="https://github.com/user-attachments/assets/9c0b97a5-20dc-4230-a639-5b1fb0004372" />
+
 ## DESCRIPTION
 Developed a C# backend server to manage lobbies, clients, rooms, and game
 sessions for an online multiplayer third-person shooter. Engineered low-latency
@@ -204,6 +220,8 @@ robust session management to deliver a smooth multiplayer experience.
 ---
 
 # FSM FPS AI Test Scene (Rule-Based AI Test)
+<img width="2962" height="1613" alt="image" src="https://github.com/user-attachments/assets/71bf487b-dd8a-4ac3-a18a-e5be5a7bad94" />
+
 ## [GITHUB LINK](https://github.com/reidhtaylor/FPS-Template)
 ## DESCRIPTION
 Designed and programmed a first-person shooter (FPS) featuring rule-based AI
@@ -222,6 +240,8 @@ and tactical environment.
 ---
 
 # Custom C++ Server TPS Prototype
+<img width="528" height="497" alt="image" src="https://github.com/user-attachments/assets/6d2dfeb3-b479-45d2-b3f4-d017e3631082" />
+
 ## DESCRIPTION
 Engineered a custom C++ server to support a third-person shooter with dynamic
 item drops and server-side AI for enhanced performance and game integrity.
@@ -241,6 +261,8 @@ and competitive multiplayer environment.
 ---
 
 # The Samurai (Large Scale Advanced World Rendering)
+<img width="3372" height="1727" alt="image" src="https://github.com/user-attachments/assets/16d05c75-7788-464f-b0ad-b038f8cd233e" />
+
 ## DESCRIPTION
 Developed a vast open-world samurai game featuring a dynamic environment and
 immersive gameplay systems optimized to run at 120 FPS on low-end devices.
@@ -263,6 +285,8 @@ experience.
 ---
 
 # Sessler for Congress (Congressional Campaign App)
+<img width="504" height="175" alt="image" src="https://github.com/user-attachments/assets/8b3e3eba-ba5d-484d-b455-ec1060c5f78f" />
+
 ## DESCRIPTION
 Developed a professional campaign app designed to support a Congressional
 candidate by providing seamless communication between the campaign and
@@ -286,6 +310,8 @@ political campaigns.
 ---
 
 # Nexus (3D Online Multiplayer Shooter)
+<img width="2334" height="1080" alt="image" src="https://github.com/user-attachments/assets/167450bf-0eee-4aa0-aad9-0b2a068b41a9" />
+
 ## DESCRIPTION
 Developed Nexus, a large-scale online multiplayer TPS for mobile platforms,
 featuring team-based combat across multiple maps and game modes like Team
@@ -309,6 +335,8 @@ players.
 ---
 
 # Tryit: Word Puzzle (Daily Word Puzzle)
+<img width="128" height="132" alt="image" src="https://github.com/user-attachments/assets/68ed930a-9b47-439d-b0b7-5ec65e2b0fc8" />
+
 ## DESCRIPTION
 Developed Tryit, a React Native application for iOS designed to deliver a
 responsive and cross-platform word puzzle experience. Built with a dynamic
@@ -327,6 +355,8 @@ fixes, maintaining reliability and user satisfaction.
 ---
 
 # Rubik’s Cube Timer (React Native State Testing)
+<img width="128" height="130" alt="image" src="https://github.com/user-attachments/assets/bfb87ae3-6a6d-45b7-98da-4b120f5d04d1" />
+
 ## DESCRIPTION
 Built a Rubik’s Cube timer in React Native with state management to handle
 dynamic updates and complex refresh cycles. Features solve history tracking,
@@ -342,6 +372,8 @@ compatibility.
 ---
 
 # The Crazy Tanks (24-Hour Publish Challenge)
+<img width="2922" height="1596" alt="image" src="https://github.com/user-attachments/assets/7de44f26-1dad-4b21-9fe3-d9ac8b79e34b" />
+
 ## DESCRIPTION
 Conceptualized, developed, and published Crazy Tanks within 24 hours,
 showcasing a results-driven mindset and rapid problem-solving skills. Built a fast-
@@ -358,6 +390,8 @@ quickly and deliver a polished product under tight deadlines.
 ---
 
 # Snowflake Lane (First Publish Project)
+<img width="1359" height="765" alt="image" src="https://github.com/user-attachments/assets/c23249ae-20bf-464a-9dfa-8639a77c5ef9" />
+
 ## DESCRIPTION
 Developed and published Snowflake Lane within 24 hours as a proof-of-concept
 to test Xcode publishing workflows. Created a simple Christmas-themed game
