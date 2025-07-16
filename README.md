@@ -2,33 +2,33 @@
 # Portfolio - Projects
   1. Table of Contents
   2. TI-RSLK Vehicle
-    - Path Seeking
-    - Remote Control
-    - Self-Driving Sensors
-  3. Crossword Puzzle Generator (Heavy Recursion Performance Test)
-  4. STIBS (Electrical Circuit Sandbox 3D)
-  5. Simon Says DAC (Digital-To-Analog Converter Test)
-  6. Sendit (P2P airdrop)
-  7. Coda (Apple Music re-engineered/re-designed w/ Spotify)
-  8. Physics Based Real-time Foliage Renderer / Simulator
-  9. Filex (File Converter)
-  10. Nexus Backend Server (C#)
-  11. FSM FPS AI Test Scene (Rule-Based AI Test)
-  12. Custom C++ Server TPS Prototype
-  13. The Samurai (Large Scale Advanced World Rendering)
-  14. Sessler for Congress (Congressional Campaign App)
-  15. Nexus (3D Online Multiplayer Shooter)
-  16. Tryit: Word Puzzle (Daily Word Puzzle)
-  17. Rubik’s Cube Timer (React Native State Testing)
-  18. The Crazy Tanks (24-Hour Publish Challenge)
-  19. Snowflake Lane (First Publish Project)
-  20. CAD Designs
-  21. FPGA Board Designs
-  22. Demo AI LLM Solution (Flatworld)
-  23. Mortgage Loan Underwriting Automation (RevelAItion)
+    1. Path Seeking
+    2. Remote Control
+    3. Self-Driving Sensors
+  4. Crossword Puzzle Generator (Heavy Recursion Performance Test)
+  5. STIBS (Electrical Circuit Sandbox 3D)
+  6. Simon Says DAC (Digital-To-Analog Converter Test)
+  7. Sendit (P2P airdrop)
+  8. Coda (Apple Music re-engineered/re-designed w/ Spotify)
+  9. Physics Based Real-time Foliage Renderer / Simulator
+  10. Filex (File Converter)
+  11. Nexus Backend Server (C#)
+  12. FSM FPS AI Test Scene (Rule-Based AI Test)
+  13. Custom C++ Server TPS Prototype
+  14. The Samurai (Large Scale Advanced World Rendering)
+  15. Sessler for Congress (Congressional Campaign App)
+  16. Nexus (3D Online Multiplayer Shooter)
+  17. Tryit: Word Puzzle (Daily Word Puzzle)
+  18. Rubik’s Cube Timer (React Native State Testing)
+  19. The Crazy Tanks (24-Hour Publish Challenge)
+  20. Snowflake Lane (First Publish Project)
+  21. CAD Designs
+  22. FPGA Board Designs
+  23. Demo AI LLM Solution (Flatworld)
+  24. Mortgage Loan Underwriting Automation (RevelAItion)
 
-<p></p>
 # TI-RSLK (Texas Instruments)
+======
 ## DESCRIPTION
 Developed a gesture-controlled robotic car using I2C sensors and PID control
 systems to produce autonomous navigation. Integrated dual CMPS12 electronic
