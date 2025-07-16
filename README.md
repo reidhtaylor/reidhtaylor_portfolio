@@ -27,8 +27,9 @@
   23. Demo AI LLM Solution (Flatworld)
   24. Mortgage Loan Underwriting Automation (RevelAItion)
 
-# TI-RSLK (Texas Instruments)
 ---
+
+# TI-RSLK (Texas Instruments)
 ## DESCRIPTION
 Developed a gesture-controlled robotic car using I2C sensors and PID control
 systems to produce autonomous navigation. Integrated dual CMPS12 electronic
@@ -49,6 +50,7 @@ direction of PID monitored motors.
   - Seperate TI-RSLK integrated with motion sensors, a light sensor, a gyroscope, and
 a compass – allowing the vehicle to self drive and avoid obstacles.
 
+---
 
 # Crossword Puzzle Generator (Recursion Performance Test)
 ## DESCRIPTION
@@ -69,6 +71,7 @@ leaderboard in a class of 400 students.
   - Optimization
   - Recursion
 
+---
 
 # STIBS (Electrical Circuit Sandbox 3D)
 ## [GITHUB LINK](https://github.com/vincent31545/STIB)
@@ -86,6 +89,7 @@ and fun yet educational for learners.
   - Boolean Logic
   - Recursion
 
+---
 
 # Simon Says DAC (Digital-To-Analog Converter Test)
 ## DESCRIPTION
@@ -100,6 +104,7 @@ showcasing the practical applications of DACs in modern electronics.
   - Arduino
   - System Design
 
+---
 
 # Sendit (P2P Airdrop)
 ## [GITHUB LINK](https://github.com/reidhtaylor/Sendit)
@@ -116,6 +121,7 @@ sharing files across different operating systems.
   - Byte encryption/decryption
   - Packet handling
 
+---
 
 # Coda (Apple Music re-engineered/re-designed)
 ## [GITHUB LINK](https://github.com/reidhtaylor/coda)
@@ -136,6 +142,7 @@ personal music player.
   - Advance API integration
   - Audio Engineering
 
+---
 
 # Physics Based real-time foliage Renderer/Simulator
 ## GITHUB: https://github.com/reidhtaylor/URP-Grass-Renderer
@@ -157,6 +164,7 @@ emphasizes customization and efficiency.
   - Frustom/Occlusion Culling
   - Ultra Optimization
 
+---
 
 # Filex (File Converter)
 ## DESCRIPTION
@@ -175,6 +183,7 @@ operation even with high-capacity files.
   - Pandas
   - Byte conversion operations
 
+---
 
 # Nexus Backend Server (C#)
 ## DESCRIPTION
@@ -190,6 +199,7 @@ robust session management to deliver a smooth multiplayer experience.
   - TCP/UDP
   - High Client Count handling
 
+---
 
 # FSM FPS AI Test Scene (Rule-Based AI Test)
 ## [GITHUB LINK](https://github.com/reidhtaylor/FPS-Template)
@@ -207,6 +217,7 @@ and tactical environment.
   - Procedural Animation
   - VFX
 
+---
 
 # Custom C++ Server TPS Prototype
 ## DESCRIPTION
@@ -225,6 +236,7 @@ and competitive multiplayer environment.
   - TCP/UDP
   - Custom AI pathfinding
 
+---
 
 # The Samurai (Large Scale Advanced World Rendering)
 ## DESCRIPTION
@@ -246,6 +258,7 @@ experience.
   - Advanced Rendering Optimization techniques
   - Advanced Math Systems (i.e. BOID systems)
 
+---
 
 # Sessler for Congress (Congressional Campaign App)
 ## DESCRIPTION
@@ -268,6 +281,7 @@ political campaigns.
   - Team Management
   - Public Speaking
 
+---
 
 # Nexus (3D Online Multiplayer Shooter)
 ## DESCRIPTION
@@ -290,6 +304,7 @@ players.
   - Game Design
   - Project Management
 
+---
 
 # Tryit: Word Puzzle (Daily Word Puzzle)
 ## DESCRIPTION
@@ -307,6 +322,7 @@ fixes, maintaining reliability and user satisfaction.
   - 24 hours start-to-finish challenge
   - Deadlines
 
+---
 
 # Rubik’s Cube Timer (React Native State Testing)
 ## DESCRIPTION
@@ -321,6 +337,7 @@ compatibility.
   - Deadlines
   - ReactNative State-Based Programming
 
+---
 
 # The Crazy Tanks (24-Hour Publish Challenge)
 ## DESCRIPTION
@@ -336,6 +353,7 @@ quickly and deliver a polished product under tight deadlines.
   - C#
   - Rule-Based AI
 
+---
 
 # Snowflake Lane (First Publish Project)
 ## DESCRIPTION
@@ -348,6 +366,7 @@ serving as a foundational project for future development and publishing.
   - First Release
   - Xcode
 
+---
 
 # CAD Designs
 ## DESCRIPTION
@@ -364,6 +383,7 @@ formats.
   - CAD
   - 3D Modeling Programs
 
+---
 
 # FPGA Board Designs
 ## DESCRIPTION
@@ -379,6 +399,7 @@ modular design and real-time testing.
   - VHDL
   - Logic Works
 
+---
 
 # Demo AI LLM Solution (Flatworld Solutions)
 ## DESCRIPTION
@@ -396,6 +417,7 @@ business requirements effectively.
   - Meta/Viber Integration
   - LLM RESTful API
 
+---
 
 # Mortgage Loan Underwriting Automation (RevelAItion)
 ## DESCRIPTION
