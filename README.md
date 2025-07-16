@@ -28,7 +28,6 @@
   24. Mortgage Loan Underwriting Automation (RevelAItion)
 
 # TI-RSLK (Texas Instruments)
-======
 ## DESCRIPTION
 Developed a gesture-controlled robotic car using I2C sensors and PID control
 systems to produce autonomous navigation. Integrated dual CMPS12 electronic
@@ -49,7 +48,7 @@ direction of PID monitored motors.
   - Seperate TI-RSLK integrated with motion sensors, a light sensor, a gyroscope, and
 a compass – allowing the vehicle to self drive and avoid obstacles.
 
-<p></p>
+
 # Crossword Puzzle Generator (Recursion Performance Test)
 ## DESCRIPTION
 Designed and implemented a recursive algorithm program to generate all possible
@@ -69,7 +68,7 @@ leaderboard in a class of 400 students.
   - Optimization
   - Recursion
 
-<p></p>
+
 # STIBS (Electrical Circuit Sandbox 3D)
 ## GITHUB LINK
 ## DESCRIPTION
@@ -81,9 +80,12 @@ evaluations and managed team collaboration, deadlines, and project milestones.
 Built as a public, open-source project, blending the intuitive design of Minecraft
 Redstone with the technical depth of LogicWorks, making circuit design accessible
 and fun yet educational for learners.
-## Highlighted Skills - C#, Boolean Logic, Recursion
+## Highlighted Skills
+  - C#
+  - Boolean Logic
+  - Recursion
 
-<p></p>
+
 # Simon Says DAC (Digital-To-Analog Converter Test)
 ## DESCRIPTION
 Engineered a digital-to-analog converter (DAC) using an R2R resistor ladder to
@@ -92,9 +94,12 @@ game. Integrated Arduino Uno for analog signal processing and pseudo-random
 LED sequences, requiring users to match patterns via push-button inputs.
 Focused on circuit design, signal processing, and Arduino programming,
 showcasing the practical applications of DACs in modern electronics.
-## Highlighted Skills - Resistor Ladders, Arduino, System Design
+## Highlighted Skills
+  - Resistor Ladders
+  - Arduino
+  - System Design
 
-<p></p>
+
 # Sendit (P2P Airdrop)
 ## GITHUB: https://github.com/reidhtaylor/Sendit
 ## DESCRIPTION
@@ -104,9 +109,13 @@ network protocols, socket programming, and data transfer optimization to enable
 secure, reliable, and fast file sharing between devices. Focused on interoperability,
 scalable architecture, and user-friendly design to create an efficient solution for
 sharing files across different operating systems.
-## Highlighted Skills - C++, TCP/UDP sockets, byte encryption/decryption, packet handling
+## Highlighted Skills
+  - C++
+  - TCP/UDP sockets
+  - Byte encryption/decryption
+  - Packet handling
 
-<p></p>
+
 # Coda (Apple Music re-engineered/re-designed)
 ## GITHUB: https://github.com/reidhtaylor/coda
 ## DESCRIPTION
@@ -118,9 +127,15 @@ Music libraries and audio playback. Focused on scalable architecture, API
 integration, and user-centered design, blending functionality with Apple’s design
 philosophy to deliver a practical, cross-platform music solution. I use this as my
 personal music player.
-## Highlighted Skills - Objective-C, Swift, Python, Design, Advance API integration, Audio Engineering
+## Highlighted Skills
+  - Objective-C
+  - Swift
+  - Python
+  - Design
+  - Advance API integration
+  - Audio Engineering
 
-<p></p>
+
 # Physics Based real-time foliage Renderer/Simulator
 ## GITHUB: https://github.com/reidhtaylor/URP-Grass-Renderer
 ## DESCRIPTION
@@ -132,9 +147,16 @@ painting and erasing, and dynamic effects like wind simulation and trail flatten
 using path modifiers. Focused on HLSL programming, C# memory optimization,
 and shader techniques to deliver a high-performance rendering engine that
 emphasizes customization and efficiency.
-## Highlighted Skills - Computer Shaders/Buffers, Low-level C#, HLSL, PBR Lighting, Advanced rendering techniques, Frustom/Occlusion Culling, Ultra Optimization
+## Highlighted Skills
+  - Computer Shaders/Buffers
+  - Low-level C#
+  - HLSL
+  - PBR Lighting
+  - Advanced rendering techniques
+  - Frustom/Occlusion Culling
+  - Ultra Optimization
 
-<p></p>
+
 # Filex (File Converter)
 ## DESCRIPTION
 Developed Filex, a macOS application built with Swift and Objective-C, designed
@@ -144,9 +166,15 @@ handling large files, including videos and PDFs. Focused on speed, versatility, 
 user-friendly design, enabling seamless conversions across multiple formats with
 minimal effort. Optimized for performance and scalability, ensuring smooth
 operation even with high-capacity files.
-## Highlighted Skills - Objective-C, Swift, Python, FFMPEG, Pandas, byte conversion operations
+## Highlighted Skills
+  - Objective-C
+  - Swift
+  - Python
+  - FFMPEG
+  - Pandas
+  - Byte conversion operations
 
-<p></p>
+
 # Nexus Backend Server (C#)
 ## DESCRIPTION
 Developed a C# backend server to manage lobbies, clients, rooms, and game
@@ -156,9 +184,12 @@ handling for efficient data transmission. Designed to support dynamic game
 configurations and customized settings, enabling flexible matchmaking and real-
 time responsiveness. Focused on network optimization, scalable architecture, and
 robust session management to deliver a smooth multiplayer experience.
-## Highlighted Skills - C#, TCP/UDP, High Client Count handling
+## Highlighted Skills
+  - C#
+  - TCP/UDP
+  - High Client Count handling
 
-<p></p>
+
 # FSM FPS AI Test Scene (Rule-Based AI Test)
 ## GITHUB: https://github.com/reidhtaylor/FPS-Template
 ## DESCRIPTION
@@ -170,9 +201,12 @@ sliding mechanics, reload animations, recoil handling, and aim-down-sights (ADS)
 for a responsive and polished gameplay experience. Focused on AI decision-
 making, game mechanics, and player movement systems to create an engaging
 and tactical environment.
-## Highlighted Skills - Rule Based Intelligence, Procedural Animation, VFX
+## Highlighted Skills
+  - Rule Based Intelligence
+  - Procedural Animation
+  - VFX
 
-<p></p>
+
 # Custom C++ Server TPS Prototype
 ## DESCRIPTION
 Engineered a custom C++ server to support a third-person shooter with dynamic
@@ -185,9 +219,12 @@ critical computations from clients, providing fair gameplay, cheat resistance, a
 scalability for larger matches and complex AI behaviors. Focused on robust
 networking, state management, and real-time responsiveness to deliver a stable
 and competitive multiplayer environment.
-## Highlighted Skills - C++ Server Programming, TCP/UDP, Custom AI pathfinding
+## Highlighted Skills
+  - C++ Server Programming
+  - TCP/UDP
+  - Custom AI pathfinding
 
-<p></p>
+
 # The Samurai (Large Scale Advanced World Rendering)
 ## DESCRIPTION
 Developed a vast open-world samurai game featuring a dynamic environment and
@@ -204,9 +241,11 @@ the world, altering visuals, alliances, and progression paths. Implemented boss
 systems, save/load management, and forest rendering with LOD optimizations,
 balancing scale, performance, and narrative depth in a cinematic sandbox
 experience.
-## Highlighted Skills - Advanced Rendering Optimization techniques, Advanced Math Systems (i.e. BOID systems)
+## Highlighted Skills
+  - Advanced Rendering Optimization techniques
+  - Advanced Math Systems (i.e. BOID systems)
 
-<p></p>
+
 # Sessler for Congress (Congressional Campaign App)
 ## DESCRIPTION
 Developed a professional campaign app designed to support a Congressional
@@ -218,9 +257,17 @@ feedback collection. Implemented tools for direct voter communication, ensuring
 accessibility and engagement throughout the campaign. Focused on usability,
 data security, and scalable infrastructure to deliver a robust platform for modern
 political campaigns.
-## Highlighted Skills - ReactNative, Back4App, TypeScript, CSS, HTML, Systems Design, Team Management, Public Speaking
+## Highlighted Skills
+  - ReactNative
+  - Back4App
+  - TypeScript
+  - CSS
+  - HTML
+  - Systems Design
+  - Team Management
+  - Public Speaking
 
-<p></p>
+
 # Nexus (3D Online Multiplayer Shooter)
 ## DESCRIPTION
 Developed Nexus, a large-scale online multiplayer TPS for mobile platforms,
@@ -235,9 +282,14 @@ scalable servers for smooth multiplayer performance, emphasizing team strategy
 and fast-paced action. Focused on replayability, content updates, and balanced
 competitive design, creating an engaging experience for both casual and hardcore
 players.
-## Highlighted Skills - Custom Server Networking, Lobby Management, VFX, Game Design, Project Management
+## Highlighted Skills
+  - Custom Server Networking
+  - Lobby Management
+  - VFX
+  - Game Design
+  - Project Management
 
-<p></p>
+
 # Tryit: Word Puzzle (Daily Word Puzzle)
 ## DESCRIPTION
 Developed Tryit, a React Native application for iOS designed to deliver a
@@ -249,9 +301,12 @@ Leveraged React Native’s framework to ensure smooth performance, scalable
 architecture, and compatibility across varied devices. Focused on code efficiency,
 modular components, and regular updates for feature enhancements and bug
 fixes, maintaining reliability and user satisfaction.
-## Highlighted Skills - React Native, 24 hours start-to-finish challenge, Deadlines
+## Highlighted Skills
+  - React Native
+  - 24 hours start-to-finish challenge
+  - Deadlines
 
-<p></p>
+
 # Rubik’s Cube Timer (React Native State Testing)
 ## DESCRIPTION
 Built a Rubik’s Cube timer in React Native with state management to handle
@@ -259,9 +314,13 @@ dynamic updates and complex refresh cycles. Features solve history tracking,
 session analytics, and persistent data storage for performance monitoring.
 Optimized for responsive design, real-time updates, and multi-device
 compatibility.
-## Highlighted Skills - React Native, 24 hours start-to-finish challenge, Deadlines, ReactNative State-Based Programming
+## Highlighted Skills
+  - React Native
+  - 24 hours start-to-finish challenge
+  - Deadlines
+  - ReactNative State-Based Programming
 
-<p></p>
+
 # The Crazy Tanks (24-Hour Publish Challenge)
 ## DESCRIPTION
 Conceptualized, developed, and published Crazy Tanks within 24 hours,
@@ -271,9 +330,12 @@ and arena-style battles. Designed for quick learning and instant gameplay,
 emphasizing efficiency without sacrificing fun. Optimized for performance, offline
 accessibility, and responsive controls, demonstrating the ability to execute ideas
 quickly and deliver a polished product under tight deadlines.
-## Highlighted Skills - Deadlines, C#, Rule-Based AI
+## Highlighted Skills
+  - Deadlines
+  - C#
+  - Rule-Based AI
 
-<p></p>
+
 # Snowflake Lane (First Publish Project)
 ## DESCRIPTION
 Developed and published Snowflake Lane within 24 hours as a proof-of-concept
@@ -281,9 +343,11 @@ to test Xcode publishing workflows. Created a simple Christmas-themed game
 focused on holiday visuals and light gameplay mechanics. Designed to explore
 deployment pipelines, App Store submissions, and code signing processes,
 serving as a foundational project for future development and publishing.
-## Highlighted Skills - First Release, XCode
+## Highlighted Skills
+  - First Release
+  - Xcode
 
-<p></p>
+
 # CAD Designs
 ## DESCRIPTION
 Completed an intensive CAD-focused course utilizing Siemens NX to design 3D
@@ -294,9 +358,12 @@ accuracy and functionality. Created detailed technical drawings with views,
 annotations, and section cuts, adhering to industry standards for manufacturing
 and prototyping. Focused on design validation, model refinement, and export
 formats.
-## Highlighted Skills - Product Design, CAD, 3D Modeling Programs
+## Highlighted Skills
+  - Product Design
+  - CAD
+  - 3D Modeling Programs
 
-<p></p>
+
 # FPGA Board Designs
 ## DESCRIPTION
 Completed a course on Logic Synthesis using VHDL to design and implement
@@ -306,9 +373,12 @@ logic optimization, and hardware functionality. Utilized LogicWorks for circuit
 simulation and schematic design. Gained hands-on experience in digital logic
 design, hardware description languages, and FPGA programming, emphasizing
 modular design and real-time testing.
-## Highlighted Skills - Logic Synthesis, VHDL, Logic Works
+## Highlighted Skills
+  - Logic Synthesis
+  - VHDL
+  - Logic Works
 
-<p></p>
+
 # Demo AI LLM Solution (Flatworld Solutions)
 ## DESCRIPTION
 Developed a customized customer solutions demo for Flatworld Solutions,
@@ -319,9 +389,13 @@ processing capabilities. Collaborated with a team across IST, PST, and EST time
 zones, managing communication challenges and ensuring timely delivery. Focused
 on API integrations, scalable architectures, and communication solutions to meet
 business requirements effectively.
-## Highlighted Skills - C# Minimal API, Webhooks, Meta/Viber Integration, LLM RESTful API
+## Highlighted Skills
+  - C# Minimal API
+  - Webhooks
+  - Meta/Viber Integration
+  - LLM RESTful API
 
-<p></p>
+
 # Mortgage Loan Underwriting Automation (RevelAItion)
 ## DESCRIPTION
 Built a fully automated mortgage-loan underwriting engine in Python that connects
@@ -334,4 +408,9 @@ accurately compute monthly income and debt-to-income against AUS rules. By
 codifying underwriting logic into a rules engine, the application evaluates each file
 and automatically approves or rejects loans, providing clear audit trails and
 configurable UI options for selecting the appropriate income method.
-## Highlighted Skills - Python, SQL, Underwriting, Mortgage Loans, Analyzing Tax Documents
+## Highlighted Skills
+  - Python
+  - SQL
+  - Underwriting
+  - Mortgage Loans
+  - Analyzing Tax Documents
