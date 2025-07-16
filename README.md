@@ -78,9 +78,9 @@ leaderboard in a class of 400 students.
 ---
 
 # STIBS (Electrical Circuit Sandbox 3D)
+## [GITHUB LINK](https://github.com/vincent31545/STIB)
 <img width="2364" height="1056" alt="image" src="https://github.com/user-attachments/assets/25e1a54e-7bd3-4343-a4e1-3e595f4b1da0" />
 
-## [GITHUB LINK](https://github.com/vincent31545/STIB)
 ## DESCRIPTION
 Developed a C#-based 3D simulation tool to help students learn and experiment
 with circuits and Boolean logic. Designed interactive components, including logic
@@ -115,9 +115,9 @@ showcasing the practical applications of DACs in modern electronics.
 ---
 
 # Sendit (P2P Airdrop)
+## [GITHUB LINK](https://github.com/reidhtaylor/Sendit)
 <img width="2302" height="1252" alt="image" src="https://github.com/user-attachments/assets/0d622089-591b-4dc2-927c-e732f8a5bd80" />
 
-## [GITHUB LINK](https://github.com/reidhtaylor/Sendit)
 ## DESCRIPTION
 Developed Sendit, a C/C++ peer-to-peer (P2P) file-sharing application designed
 for multi-platform compatibility and seamless data transfers. Implemented
@@ -134,9 +134,9 @@ sharing files across different operating systems.
 ---
 
 # Coda (Apple Music re-engineered/re-designed)
+## [GITHUB LINK](https://github.com/reidhtaylor/coda)
 <img width="3204" height="1901" alt="image" src="https://github.com/user-attachments/assets/4907ddc2-2fc7-443a-835e-a2f7607fa110" />
 
-## [GITHUB LINK](https://github.com/reidhtaylor/coda)
 ## DESCRIPTION
 Built Coda, a Swift and Objective-C music player that seamlessly integrates Apple
 Music and Spotify for a unified and intuitive listening experience. Leveraged the
@@ -157,9 +157,9 @@ personal music player.
 ---
 
 # Physics Based real-time foliage Renderer/Simulator
+## GITHUB: https://github.com/reidhtaylor/URP-Grass-Renderer
 <img width="466" height="240" alt="image" src="https://github.com/user-attachments/assets/db279331-0d96-4525-8a59-f246d176cc9d" />
 
-## GITHUB: https://github.com/reidhtaylor/URP-Grass-Renderer
 ## DESCRIPTION
 Developed a real-time grass rendering system leveraging Compute Shaders and
 Compute Buffers, optimized for iOS, macOS, Android, and PC. Designed to
@@ -220,9 +220,9 @@ robust session management to deliver a smooth multiplayer experience.
 ---
 
 # FSM FPS AI Test Scene (Rule-Based AI Test)
+## [GITHUB LINK](https://github.com/reidhtaylor/FPS-Template)
 <img width="2962" height="1613" alt="image" src="https://github.com/user-attachments/assets/71bf487b-dd8a-4ac3-a18a-e5be5a7bad94" />
 
-## [GITHUB LINK](https://github.com/reidhtaylor/FPS-Template)
 ## DESCRIPTION
 Designed and programmed a first-person shooter (FPS) featuring rule-based AI
 with finite state machines (FSM) for team-based strategy and combat dynamics.
