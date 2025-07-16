@@ -28,6 +28,7 @@
   24. Mortgage Loan Underwriting Automation (RevelAItion)
 
 # TI-RSLK (Texas Instruments)
+---
 ## DESCRIPTION
 Developed a gesture-controlled robotic car using I2C sensors and PID control
 systems to produce autonomous navigation. Integrated dual CMPS12 electronic
