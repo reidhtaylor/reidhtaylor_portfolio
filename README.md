@@ -70,7 +70,7 @@ leaderboard in a class of 400 students.
 
 
 # STIBS (Electrical Circuit Sandbox 3D)
-## GITHUB LINK
+## [GITHUB LINK](https://github.com/vincent31545/STIB)
 ## DESCRIPTION
 Developed a C#-based 3D simulation tool to help students learn and experiment
 with circuits and Boolean logic. Designed interactive components, including logic
@@ -101,7 +101,7 @@ showcasing the practical applications of DACs in modern electronics.
 
 
 # Sendit (P2P Airdrop)
-## GITHUB: https://github.com/reidhtaylor/Sendit
+## [GITHUB LINK](https://github.com/reidhtaylor/Sendit)
 ## DESCRIPTION
 Developed Sendit, a C/C++ peer-to-peer (P2P) file-sharing application designed
 for multi-platform compatibility and seamless data transfers. Implemented
@@ -117,7 +117,7 @@ sharing files across different operating systems.
 
 
 # Coda (Apple Music re-engineered/re-designed)
-## GITHUB: https://github.com/reidhtaylor/coda
+## [GITHUB LINK](https://github.com/reidhtaylor/coda)
 ## DESCRIPTION
 Built Coda, a Swift and Objective-C music player that seamlessly integrates Apple
 Music and Spotify for a unified and intuitive listening experience. Leveraged the
@@ -191,7 +191,7 @@ robust session management to deliver a smooth multiplayer experience.
 
 
 # FSM FPS AI Test Scene (Rule-Based AI Test)
-## GITHUB: https://github.com/reidhtaylor/FPS-Template
+## [GITHUB LINK](https://github.com/reidhtaylor/FPS-Template)
 ## DESCRIPTION
 Designed and programmed a first-person shooter (FPS) featuring rule-based AI
 with finite state machines (FSM) for team-based strategy and combat dynamics.
