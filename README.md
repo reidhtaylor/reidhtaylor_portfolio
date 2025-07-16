@@ -30,6 +30,8 @@
 ---
 
 # TI-RSLK (Texas Instruments)
+<img width="1365" height="766" alt="image" src="https://github.com/user-attachments/assets/6676e11e-2e89-4329-a4f3-d2cba4bf27df" />
+
 ## DESCRIPTION
 Developed a gesture-controlled robotic car using I2C sensors and PID control
 systems to produce autonomous navigation. Integrated dual CMPS12 electronic
