@@ -1,10 +1,10 @@
 ## REID TAYLOR Troy, New York | 509-788-8430 | reidhtaylor@icloud.com
 # Portfolio - Projects
   1. Table of Contents
-  2. TI-RSLK Vehicle     
-    * Path Seeking
-    * Remote Control
-    * Self-Driving Sensors
+  2. TI-RSLK Vehicle
+     1. Remote Control
+     2. Path Seeking
+     3. Self-Driving Sensors
   4. Crossword Puzzle Generator (Heavy Recursion Performance Test)
   5. STIBS (Electrical Circuit Sandbox 3D)
   6. Simon Says DAC (Digital-To-Analog Converter Test)
